@@ -82,7 +82,7 @@
       <scope>runtime</scope>
     </dependency>
 
-    <!-- caching in the  -->
+    <!-- caching in the file -->
     <dependency>
       <groupId>javax.cache</groupId>
       <artifactId>cache-api</artifactId>
